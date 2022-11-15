@@ -1,5 +1,5 @@
 //TODO: rename as "blockly.io".
-var hostname = process.argv[2] || "0.0.0.0";
+var hostname = process.argv[2] || "https://enchanting-tartufo-83d5fe.netlify.app/";
 var port = parseInt(process.argv[3]) || 80;
 
 var finalhandler = require('finalhandler');
