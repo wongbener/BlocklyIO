@@ -8,7 +8,7 @@ function constant(val) {
 var consts = {
   GRID_SIZE: constant(80),
   CELL_WIDTH: constant(40),
-  SPEED: constant(5),
+  SPEED: constant(2),
   BORDER_WIDTH: constant(20),
   MAX_PLAYERS: constant(81)
 };
